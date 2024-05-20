@@ -1,19 +1,16 @@
-olá bem vindo ao meu perfil
+olá bem vindo ao meu perfil 
 
-<!---
-joaomarcosrosa/joaomarcosrosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+MEU NOME É JOÃO MARCOS 
 
-- 👋 Hi, I’m @joaomarcosrosa
-- 👀 I’m interested in comprender tudo
-- 🌱 I’m currently learning alura
-- 💞️ I’m looking to collaborate on com tudo
-- 📫 How to reach me pelo meu gmail: 00001113792310sp@aluno.educacao.sp.gov.br
-- 😄 Pronouns: sei lá
-- ⚡ Fun fact: sou apaixonado por futebol; gosto de pizza (qualquer pizza);curto treino
+-ESTOU ESTUDANDO A ALURA
 
-<!---
-joaomarcosrosa/joaomarcosrosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-ESTOU ME DESENVOLVENDO NA LINGUAGEM JavaScript
+
+-UTILIZO ESSE ESPAÇO PARA MINHA ORGANIZAÇÃO E PROJETOS DE COMPARTILHAMENTO DOS MEUS PROJETOS DESENVOLVIDOS
+
+## VOCÊ PODE ENTRA EM CONTA TO COMIGO POR 📧
+00001113792310sp@aluno.educacao.sp.gov.br
+
+joaomarcosrosadetoledo2@gmail.com
+
+![](https://media1.tenor.com/m/3wen1lf5mK8AAAAC/dragon-ball-z-goku.gif)
